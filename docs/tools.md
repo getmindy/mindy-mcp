@@ -1,7 +1,7 @@
 # Tool Catalog
 
 > **The authoritative catalog is live, not this file.**
-> **[getmindy.ai/mcp/tools](https://getmindy.ai/mcp/tools)** renders from `listMcpTools()` at runtime, so it can't drift. For programmatic use, read **`/api/mcp/catalog`** (public, no auth, edge-cached ~1h). Current surface: **54 tools** across **8 price tiers** (0 / 5 / 10 / 15 / 20 / 40 / 100 / 200 credits).
+> **[getmindy.ai/mcp/tools](https://getmindy.ai/mcp/tools)** renders from `listMcpTools()` at runtime, so it can't drift. For programmatic use, read **`/api/mcp/catalog`** (public, no auth, edge-cached ~1h) — it returns the current tool count and every price, so you never have to trust a number typed into a doc. Current surface: **50+ tools** across a handful of credit tiers, from free to the flagship deliverables.
 >
 > The overview below is an **orientation map of the shape** — what kinds of tools exist and how they group. Example tool names are included **only where verified against the live catalog**; everywhere else, the sentence points you at the live list rather than risk a plausible-but-wrong name. It carries **no per-tool prices** — those move, so read them live.
 
