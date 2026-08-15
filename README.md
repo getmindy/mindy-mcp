@@ -54,7 +54,7 @@ In Claude Desktop: **Settings → Connectors → Add custom connector**, paste t
 
 ## What's in the catalog
 
-**54 tools** live (and moving), grouped by what a bidder is trying to do. The authoritative, correctly-priced list is **[getmindy.ai/mcp/tools](https://getmindy.ai/mcp/tools)** (live from `listMcpTools()`) / `/api/mcp/catalog`. The map in [docs/tools.md](docs/tools.md) is orientation only.
+**50+ tools** live and moving, grouped by what a bidder is trying to do. The authoritative, correctly-priced list is **[getmindy.ai/mcp/tools](https://getmindy.ai/mcp/tools)** (live from `listMcpTools()`) / `/api/mcp/catalog`. The map in [docs/tools.md](docs/tools.md) is orientation only.
 
 | Group | Does what | Sample tools |
 |---|---|---|
